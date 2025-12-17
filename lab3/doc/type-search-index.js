@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lab3","l":"Boots"},{"p":"lab3","l":"BootsDriver"},{"p":"lab3","l":"Laces"},{"p":"lab3","l":"Logger"},{"p":"lab3","l":"SeasonalFootwear"},{"p":"lab3","l":"Shoes"},{"p":"lab3","l":"Sole"},{"p":"lab3","l":"Upper"}];updateSearchResults();
